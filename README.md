@@ -26,7 +26,7 @@ It includes a fully responsive frontend built with **React** and **Tailwind CSS*
 
 ## Tech Stack
 - **Frontend**: React.js, Tailwind CSS, TypeScript, Axios, Socket.IO Client
-- **Backend**: Node.js, Express.js, TypeScript, Socket.IO Server
+- **Backend**: Node.js, Express.js, TypeScript, Socket.IO Server, dotenv etc.
 - **Database**: Redis (for caching), MongoDB Atlas (for storage)
 - **Deployment**: Render.com (Backend), Vercel (Frontend)
 
@@ -87,10 +87,11 @@ Once the application is running:
 - You can add new notes using the input field. Notes are stored in Redis first and moved to MongoDB automatically after 50 entries.
 
 ## Deployed Links
-- **Frontend**: [Your Frontend Deployment Link](https://kazam-assignment-two.vercel.app/)
-- **Backend**: [Your Backend Deployment Link](https://kazam-assignment-cf6k.onrender.com/)
+- **Frontend**: [Frontend Deployment Link](https://kazam-assignment-two.vercel.app/)
+- **Backend**: [Backend Deployment Link](https://kazam-assignment-cf6k.onrender.com/)
 
 ## Screenshots
+Homepage
 ![Homepage](./frontend/public/Screenshot%202025-04-26%20160615.png)
 Mobile Responsive View
 ![Mobile Responsive View](./frontend/public/Screenshot%202025-04-26%20162605.png)
