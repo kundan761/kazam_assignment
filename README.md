@@ -92,7 +92,8 @@ Once the application is running:
 
 ## Screenshots
 ![Homepage](./frontend/public/Screenshot%202025-04-26%20160615.png)
-![Mobile Responsive View](https://github.com/kundan761/kazam_assignment/blob/main/frontend/public/screenshots/mobile_view.png)
+Mobile Responsive View
+![Mobile Responsive View](./frontend/public/Screenshot%202025-04-26%20162605.png)
 
 ## Contributing
 Contributions are welcome!  
