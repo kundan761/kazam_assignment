@@ -20,7 +20,7 @@ const TaskCard = () => {
           (a: Task, b: Task) =>
             new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
         );
-        console.log("Fetched tasks:", sortedTasks);
+        // console.log("Fetched tasks:", sortedTasks);
         setTasks(sortedTasks);
       } else {
         console.error("Unexpected data structure:", data);
